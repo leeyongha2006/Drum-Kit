@@ -2,6 +2,7 @@
 JavaScript를 사용하여 드럼키트 만들기
 ![image](https://github.com/leeyongha2006/Drum-Kit/assets/126844590/5c049c4d-c101-4d6c-90aa-6c1c23a86010)
 
+### 키보드나 마우스를 입력하여 드럼 소리를 내는 프로그램이다. 
 ## javascript
 ```javascript
 const keys = Array.from(document.querySelectorAll('.key'));
